@@ -16,7 +16,6 @@ from datetime import datetime
 import requests
 
 
-
 @dataclass
 class TestResult:
     """测试结果数据类"""
